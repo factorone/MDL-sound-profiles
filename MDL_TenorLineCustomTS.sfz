@@ -1,0 +1,1333 @@
+// *****************************
+// ** MuseScore Drumline v1.1 **
+// **        TenorLine        **
+// **   SFZ programming by    **
+// **  S. Christian Collins   **
+// *****************************
+
+// **********
+// ** Hits **
+// **********
+// Drum 4
+<group> key=c4  lovel=1  hivel=49  ampeg_release=3  transpose=0
+fil_type=lpf_1p  cutoff=100  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 4 Soft 01.wav  seq_position=1  seq_length=4  volume=3
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 4 Soft 02.wav  seq_position=2  seq_length=4  volume=3
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 4 Soft 03.wav  seq_position=3  seq_length=4  volume=3
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 4 Soft 04.wav  seq_position=4  seq_length=4  volume=3
+// Drum 3
+<group> key=c#4  lovel=1  hivel=49  ampeg_release=3  transpose=0
+fil_type=lpf_1p  cutoff=133  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 3 Soft 01.wav  seq_position=1  seq_length=4  volume=3
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 3 Soft 02.wav  seq_position=2  seq_length=4  volume=3
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 3 Soft 03.wav  seq_position=3  seq_length=4  volume=3
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 3 Soft 04.wav  seq_position=4  seq_length=4  volume=3
+// Drum 2
+<group> key=d4  lovel=1  hivel=49  ampeg_release=4  transpose=0
+fil_type=lpf_1p  cutoff=166  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 2 Soft 01.wav  seq_position=1  seq_length=4  volume=3
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 2 Soft 02.wav  seq_position=2  seq_length=4  volume=3
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 2 Soft 03.wav  seq_position=3  seq_length=4  volume=3
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 2 Soft 04.wav  seq_position=4  seq_length=4  volume=3
+// Drum 1
+<group> key=d#4  lovel=1  hivel=49  loop_mode=one_shot
+fil_type=lpf_1p  cutoff=200  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 1 Soft 01.wav  seq_position=1  seq_length=4  volume=3
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 1 Soft 02.wav  seq_position=2  seq_length=4  volume=3
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 1 Soft 03.wav  seq_position=3  seq_length=4  volume=3
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 1 Soft 04.wav  seq_position=4  seq_length=4  volume=3
+// Spock 2
+<group> key=e4  lovel=1  hivel=49  loop_mode=one_shot  transpose=-3
+fil_type=lpf_1p  cutoff=233  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS SPOCK Soft 01.wav  seq_position=1  seq_length=4  volume=3
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS SPOCK Soft 02.wav  seq_position=2  seq_length=4  volume=3
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS SPOCK Soft 03.wav  seq_position=3  seq_length=4  volume=3
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS SPOCK Soft 04.wav  seq_position=4  seq_length=4  volume=3
+// Spock 1
+<group> key=f4  lovel=1  hivel=49  loop_mode=one_shot
+fil_type=lpf_1p  cutoff=266  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS SPOCK Soft 01.wav  seq_position=1  seq_length=4  volume=3
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS SPOCK Soft 02.wav  seq_position=2  seq_length=4  volume=3
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS SPOCK Soft 03.wav  seq_position=3  seq_length=4  volume=3
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS SPOCK Soft 04.wav  seq_position=4  seq_length=4  volume=3
+
+// Drum 4
+<group> key=c4  lovel=50  hivel=95  ampeg_release=3  transpose=0
+fil_type=lpf_1p  cutoff=100  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 4 Reg 01.wav  seq_position=1  seq_length=4  volume=5
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 4 Reg 02.wav  seq_position=2  seq_length=4  volume=5
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 4 Reg 03.wav  seq_position=3  seq_length=4  volume=5
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 4 Reg 04.wav  seq_position=4  seq_length=4  volume=5
+// Drum 3
+<group> key=c#4  lovel=50 hivel=95  ampeg_release=3  transpose=0
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 3 Reg 01.wav  seq_position=1  seq_length=4  volume=5
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 3 Reg 02.wav  seq_position=2  seq_length=4  volume=5
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 3 Reg 03.wav  seq_position=3  seq_length=4  volume=5
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 3 Reg 04.wav  seq_position=4  seq_length=4  volume=5
+// Drum 2
+<group> key=d4  lovel=50 hivel=95  ampeg_release=4  transpose=0
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 2 Reg 01.wav  seq_position=1  seq_length=4  volume=5
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 2 Reg 02.wav  seq_position=2  seq_length=4  volume=5
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 2 Reg 03.wav  seq_position=3  seq_length=4  volume=5
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 2 Reg 04.wav  seq_position=4  seq_length=4  volume=5
+// Drum 1
+<group> key=d#4  lovel=50 hivel=95  loop_mode=one_shot
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 1 Reg 01.wav  seq_position=1  seq_length=4  volume=5
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 1 Reg 02.wav  seq_position=2  seq_length=4  volume=5
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 1 Reg 03.wav  seq_position=3  seq_length=4  volume=5
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 1 Reg 04.wav  seq_position=4  seq_length=4  volume=5
+// Spock 2
+<group> key=e4  lovel=50 hivel=95  loop_mode=one_shot  transpose=-3
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS SPOCK Reg 01.wav  seq_position=1  seq_length=4  volume=5
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS SPOCK Reg 02.wav  seq_position=2  seq_length=4  volume=5
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS SPOCK Reg 03.wav  seq_position=3  seq_length=4  volume=5
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS SPOCK Reg 04.wav  seq_position=4  seq_length=4  volume=5
+// Spock 1
+<group> key=f4  lovel=50  hivel=95  loop_mode=one_shot
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS SPOCK Reg 01.wav  seq_position=1  seq_length=4  volume=5
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS SPOCK Reg 02.wav  seq_position=2  seq_length=4  volume=5
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS SPOCK Reg 03.wav  seq_position=3  seq_length=4  volume=5
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS SPOCK Reg 04.wav  seq_position=4  seq_length=4  volume=5
+
+// Drum 4
+<group> key=c4  lovel=96  hivel=127  ampeg_release=3  transpose=0
+fil_type=lpf_1p  cutoff=100  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 4 Hard 01.wav  seq_position=1  seq_length=4  volume=7
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 4 Hard 02.wav  seq_position=2  seq_length=4  volume=7
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 4 Hard 03.wav  seq_position=3  seq_length=4  volume=7
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 4 Hard 04.wav  seq_position=4  seq_length=4  volume=7
+// Drum 3
+<group> key=c#4  lovel=96  hivel=127  ampeg_release=3  transpose=0
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 3 Reg 01.wav  seq_position=1  seq_length=4  volume=7
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 3 Reg 02.wav  seq_position=2  seq_length=4  volume=7
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 3 Reg 03.wav  seq_position=3  seq_length=4  volume=7
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 3 Reg 04.wav  seq_position=4  seq_length=4  volume=7
+// Drum 2
+<group> key=d4  lovel=96  hivel=127  ampeg_release=4  transpose=0
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 2 Reg 01.wav  seq_position=1  seq_length=4  volume=7
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 2 Reg 02.wav  seq_position=2  seq_length=4  volume=7
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 2 Reg 03.wav  seq_position=3  seq_length=4  volume=7
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 2 Reg 04.wav  seq_position=4  seq_length=4  volume=7
+// Drum 1
+<group> key=d#4  lovel=96  hivel=127  loop_mode=one_shot
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 1 Reg 01.wav  seq_position=1  seq_length=4  volume=7
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 1 Reg 02.wav  seq_position=2  seq_length=4  volume=7
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 1 Reg 03.wav  seq_position=3  seq_length=4  volume=7
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS TENOR 1 Reg 04.wav  seq_position=4  seq_length=4  volume=7
+// Spock 2
+<group> key=e4  lovel=96  hivel=127  loop_mode=one_shot  transpose=-3
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS SPOCK Reg 01.wav  seq_position=1  seq_length=4  volume=7
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS SPOCK Reg 02.wav  seq_position=2  seq_length=4  volume=7
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS SPOCK Reg 03.wav  seq_position=3  seq_length=4  volume=7
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS SPOCK Reg 04.wav  seq_position=4  seq_length=4  volume=7
+// Spock 1
+<group> key=f4  lovel=96  hivel=127  loop_mode=one_shot
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS SPOCK Reg 01.wav  seq_position=1  seq_length=4  volume=7
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS SPOCK Reg 02.wav  seq_position=2  seq_length=4  volume=7
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS SPOCK Reg 03.wav  seq_position=3  seq_length=4  volume=7
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/HITS SINGLE STICKS/SINGLE STICKS SPOCK Reg 04.wav  seq_position=4  seq_length=4  volume=7
+
+// ***************
+// ** Rim Shots **
+// ***************
+// Drum 4
+<group> key=c5  lovel=1  hivel=49  ampeg_release=3  transpose=0  group_volume=12
+fil_type=lpf_1p  cutoff=300  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 4 Soft 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 4 Soft 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 4 Soft 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 4 Soft 04.wav  seq_position=4  seq_length=4
+// Drum 3
+<group> key=c#5  lovel=1  hivel=49  ampeg_release=3  transpose=0  group_volume=12
+fil_type=lpf_1p  cutoff=333  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 3 Soft 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 3 Soft 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 3 Soft 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 3 Soft 04.wav  seq_position=4  seq_length=4
+// Drum 2
+<group> key=d5  lovel=1  hivel=49  ampeg_release=4  transpose=0  group_volume=11
+fil_type=lpf_1p  cutoff=366  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 2 Soft 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 2 Soft 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 2 Soft 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 2 Soft 04.wav  seq_position=4  seq_length=4
+// Drum 1
+<group> key=d#5  lovel=1  hivel=49  loop_mode=one_shot   group_volume=11
+fil_type=lpf_1p  cutoff=400  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 1 Soft 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 1 Soft 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 1 Soft 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 1 Soft 04.wav  seq_position=4  seq_length=4
+// Spock 2
+<group> key=e5  lovel=1  hivel=49  loop_mode=one_shot  group_volume=10  transpose=-3
+fil_type=lpf_1p  cutoff=433  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS SPOCK Soft 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS SPOCK Soft 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS SPOCK Soft 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS SPOCK Soft 04.wav  seq_position=4  seq_length=4
+// Spock 1
+<group> key=f5  lovel=1  hivel=49  loop_mode=one_sho  group_volume=10
+fil_type=lpf_1p  cutoff=466  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS SPOCK Soft 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS SPOCK Soft 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS SPOCK Soft 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS SPOCK Soft 04.wav  seq_position=4  seq_length=4
+
+// Drum 4
+<group> key=c5  lovel=50  hivel=95  ampeg_release=3  transpose=0  group_volume=12
+fil_type=lpf_1p  cutoff=300  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 4 Reg 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 4 Reg 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 4 Reg 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 4 Reg 04.wav  seq_position=4  seq_length=4
+// Drum 3
+<group> key=c#5  lovel=50  hivel=95  ampeg_release=3  transpose=0  group_volume=12
+fil_type=lpf_1p  cutoff=333  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 3 Reg 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 3 Reg 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 3 Reg 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 3 Reg 04.wav  seq_position=4  seq_length=4
+// Drum 2
+<group> key=d5  lovel=50  hivel=95  ampeg_release=4  transpose=0  group_volume=11
+fil_type=lpf_1p  cutoff=366  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 2 Reg 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 2 Reg 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 2 Reg 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 2 Reg 04.wav  seq_position=4  seq_length=4
+// Drum 1
+<group> key=d#5  lovel=50  hivel=95  loop_mode=one_shot   group_volume=11
+fil_type=lpf_1p  cutoff=400  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 1 Reg 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 1 Reg 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 1 Reg 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 1 Reg 04.wav  seq_position=4  seq_length=4
+// Spock 2
+<group> key=e5  lovel=50  hivel=95  loop_mode=one_shot  group_volume=10  transpose=-3
+fil_type=lpf_1p  cutoff=433  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS SPOCK Reg 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS SPOCK Reg 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS SPOCK Reg 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS SPOCK Reg 04.wav  seq_position=4  seq_length=4
+// Spock 1
+<group> key=f5  lovel=50  hivel=95  loop_mode=one_sho  group_volume=10
+fil_type=lpf_1p  cutoff=466  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS SPOCK Reg 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS SPOCK Reg 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS SPOCK Reg 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS SPOCK Reg 04.wav  seq_position=4  seq_length=4
+
+// Drum 4
+<group> key=c5  lovel=96  hivel=127  ampeg_release=3  transpose=0  group_volume=12
+fil_type=lpf_1p  cutoff=300  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 4 Reg 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 4 Reg 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 4 Reg 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 4 Reg 04.wav  seq_position=4  seq_length=4
+// Drum 3
+<group> key=c#5  lovel=96  hivel=127  ampeg_release=3  transpose=0  group_volume=12
+fil_type=lpf_1p  cutoff=333  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 3 Reg 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 3 Reg 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 3 Reg 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 3 Reg 04.wav  seq_position=4  seq_length=4
+// Drum 2
+<group> key=d5  lovel=96  hivel=127  ampeg_release=4  transpose=0  group_volume=11
+fil_type=lpf_1p  cutoff=366  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 2 Reg 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 2 Reg 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 2 Reg 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 2 Reg 04.wav  seq_position=4  seq_length=4
+// Drum 1
+<group> key=d#5  lovel=96  hivel=127  loop_mode=one_shot   group_volume=11
+fil_type=lpf_1p  cutoff=400  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 1 Reg 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 1 Reg 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 1 Reg 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 1 Reg 04.wav  seq_position=4  seq_length=4
+// Spock 2
+<group> key=e5  lovel=96  hivel=127  loop_mode=one_shot  group_volume=10  transpose=-3
+fil_type=lpf_1p  cutoff=433  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS SPOCK Reg 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS SPOCK Reg 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS SPOCK Reg 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS SPOCK Reg 04.wav  seq_position=4  seq_length=4
+// Spock 1
+<group> key=f5  lovel=96  hivel=127  loop_mode=one_sho  group_volume=10
+fil_type=lpf_1p  cutoff=466  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS SPOCK Reg 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS SPOCK Reg 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS SPOCK Reg 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS SPOCK Reg 04.wav  seq_position=4  seq_length=4
+
+// **********
+// ** Rims **
+// **********
+// Drum 4
+<group> key=f#5  lovel=1  hivel=49  ampeg_release=3  transpose=0  group_volume=12
+fil_type=lpf_1p  cutoff=300  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 4 Soft 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 4 Soft 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 4 Soft 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 4 Soft 04.wav  seq_position=4  seq_length=4
+// Drum 3
+<group> key=g5  lovel=1  hivel=49  ampeg_release=3  transpose=0  group_volume=12
+fil_type=lpf_1p  cutoff=333  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 3 Soft 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 3 Soft 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 3 Soft 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 3 Soft 04.wav  seq_position=4  seq_length=4
+// Drum 2
+<group> key=g#5  lovel=1  hivel=49  ampeg_release=4  transpose=0  group_volume=11
+fil_type=lpf_1p  cutoff=366  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 2 Soft 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 2 Soft 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 2 Soft 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 2 Soft 04.wav  seq_position=4  seq_length=4
+// Drum 1
+<group> key=a5  lovel=1  hivel=49  loop_mode=one_shot   group_volume=11
+fil_type=lpf_1p  cutoff=400  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 1 Soft 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 1 Soft 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 1 Soft 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 1 Soft 04.wav  seq_position=4  seq_length=4
+// Spock 2
+<group> key=a#5  lovel=1  hivel=49  loop_mode=one_shot  group_volume=10  transpose=-3
+fil_type=lpf_1p  cutoff=433  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS SPOCK Soft 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS SPOCK Soft 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS SPOCK Soft 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS SPOCK Soft 04.wav  seq_position=4  seq_length=4
+// Spock 1
+<group> key=5  lovel=1  hivel=49  loop_mode=one_sho  group_volume=10
+fil_type=lpf_1p  cutoff=466  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS SPOCK Soft 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS SPOCK Soft 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS SPOCK Soft 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS SPOCK Soft 04.wav  seq_position=4  seq_length=4
+
+// Drum 4
+<group> key=f#5  lovel=50  hivel=95  ampeg_release=3  transpose=0  group_volume=12
+fil_type=lpf_1p  cutoff=300  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 4 Reg 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 4 Reg 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 4 Reg 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 4 Reg 04.wav  seq_position=4  seq_length=4
+// Drum 3
+<group> key=g5  lovel=50  hivel=95  ampeg_release=3  transpose=0  group_volume=12
+fil_type=lpf_1p  cutoff=333  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 3 Reg 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 3 Reg 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 3 Reg 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 3 Reg 04.wav  seq_position=4  seq_length=4
+// Drum 2
+<group> key=g#5  lovel=50  hivel=95  ampeg_release=4  transpose=0  group_volume=11
+fil_type=lpf_1p  cutoff=366  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 2 Reg 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 2 Reg 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 2 Reg 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 2 Reg 04.wav  seq_position=4  seq_length=4
+// Drum 1
+<group> key=a5  lovel=50  hivel=95  loop_mode=one_shot   group_volume=11
+fil_type=lpf_1p  cutoff=400  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 1 Reg 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 1 Reg 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 1 Reg 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 1 Reg 04.wav  seq_position=4  seq_length=4
+// Spock 2
+<group> key=a#5  lovel=50  hivel=95  loop_mode=one_shot  group_volume=10  transpose=-3
+fil_type=lpf_1p  cutoff=433  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS SPOCK Reg 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS SPOCK Reg 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS SPOCK Reg 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS SPOCK Reg 04.wav  seq_position=4  seq_length=4
+// Spock 1
+<group> key=5  lovel=50  hivel=95  loop_mode=one_sho  group_volume=10
+fil_type=lpf_1p  cutoff=466  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS SPOCK Reg 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS SPOCK Reg 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS SPOCK Reg 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS SPOCK Reg 04.wav  seq_position=4  seq_length=4
+
+// Drum 4
+<group> key=f#5  lovel=96  hivel=127  ampeg_release=3  transpose=0  group_volume=12
+fil_type=lpf_1p  cutoff=300  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 4 Reg 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 4 Reg 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 4 Reg 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 4 Reg 04.wav  seq_position=4  seq_length=4
+// Drum 3
+<group> key=g5  lovel=96  hivel=127  ampeg_release=3  transpose=0  group_volume=12
+fil_type=lpf_1p  cutoff=333  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 3 Reg 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 3 Reg 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 3 Reg 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 3 Reg 04.wav  seq_position=4  seq_length=4
+// Drum 2
+<group> key=g#5  lovel=96  hivel=127  ampeg_release=4  transpose=0  group_volume=11
+fil_type=lpf_1p  cutoff=366  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 2 Reg 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 2 Reg 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 2 Reg 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 2 Reg 04.wav  seq_position=4  seq_length=4
+// Drum 1
+<group> key=a5  lovel=96  hivel=127  loop_mode=one_shot   group_volume=11
+fil_type=lpf_1p  cutoff=400  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 1 Reg 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 1 Reg 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 1 Reg 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS TENOR 1 Reg 04.wav  seq_position=4  seq_length=4
+// Spock 2
+<group> key=a#5  lovel=96  hivel=127  loop_mode=one_shot  group_volume=10  transpose=-3
+fil_type=lpf_1p  cutoff=433  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS SPOCK Reg 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS SPOCK Reg 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS SPOCK Reg 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS SPOCK Reg 04.wav  seq_position=4  seq_length=4
+// Spock 1
+<group> key=5  lovel=96  hivel=127  loop_mode=one_sho  group_volume=10
+fil_type=lpf_1p  cutoff=466  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS SPOCK Reg 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS SPOCK Reg 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS SPOCK Reg 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/RIM CLICKS/RIM CLICKS SPOCK Reg 04.wav  seq_position=4  seq_length=4
+
+// ***************
+// ** Metronome **
+// ***************
+<group> loop_mode=one_shot  group_volume=5
+<region> key=a0   sample=MDL_samples/auxiliary/metronome_1.ogg
+<region> key=a#0  sample=MDL_samples/auxiliary/metronome_2.ogg
+
+// ***************
+// ** Hand Clap **
+// ***************
+<group> key=b0  lovel=1  hivel=94  loop_mode=one_shot
+fil_type=lpf_1p  cutoff=2500  fil_veltrack=8000
+<region> sample=MDL_samples/auxiliary/clap1.ogg  lorand=0.0  hirand=0.5  seq_position=1  seq_length=3
+<region> sample=MDL_samples/auxiliary/clap2.ogg  lorand=0.5  hirand=1.0  seq_position=1  seq_length=3
+<region> sample=MDL_samples/auxiliary/clap3.ogg  lorand=0.0  hirand=0.5  seq_position=2  seq_length=3
+<region> sample=MDL_samples/auxiliary/clap4.ogg  lorand=0.5  hirand=1.0  seq_position=2  seq_length=3
+<region> sample=MDL_samples/auxiliary/clap5.ogg  lorand=0.0  hirand=0.5  seq_position=3  seq_length=3
+<region> sample=MDL_samples/auxiliary/clap6.ogg  lorand=0.5  hirand=1.0  seq_position=3  seq_length=3
+
+<group> key=b0  lovel=95  hivel=127  loop_mode=one_shot
+<region> sample=MDL_samples/auxiliary/clap1.ogg  lorand=0.0  hirand=0.5  seq_position=1  seq_length=3
+<region> sample=MDL_samples/auxiliary/clap2.ogg  lorand=0.5  hirand=1.0  seq_position=1  seq_length=3
+<region> sample=MDL_samples/auxiliary/clap3.ogg  lorand=0.0  hirand=0.5  seq_position=2  seq_length=3
+<region> sample=MDL_samples/auxiliary/clap4.ogg  lorand=0.5  hirand=1.0  seq_position=2  seq_length=3
+<region> sample=MDL_samples/auxiliary/clap5.ogg  lorand=0.0  hirand=0.5  seq_position=3  seq_length=3
+<region> sample=MDL_samples/auxiliary/clap6.ogg  lorand=0.5  hirand=1.0  seq_position=3  seq_length=3
+
+// ****************
+// ** Solo "Dut" **
+// ****************
+<group> key=d#1  loop_mode=one_shot  group_volume=5
+<region> sample=MDL_samples/snare_group/dut_single_1.ogg  seq_position=1  seq_length=3
+<region> sample=MDL_samples/snare_group/dut_single_1.ogg  seq_position=2  seq_length=3  volume=3
+<region> sample=MDL_samples/snare_group/dut_single_1.ogg  seq_position=3  seq_length=3  volume=4.5
+
+// *****************
+// ** Group "Dut" **
+// *****************
+<group> key=e1  loop_mode=one_shot  group_volume=5
+<region> sample=MDL_samples/snare_group/dut_group_1.ogg  seq_position=1  seq_length=2
+<region> sample=MDL_samples/snare_group/dut_group_2.ogg  seq_position=2  seq_length=2
+
+// ********************
+// ** Agogo Bell Low **
+// ********************
+<group> key=f1  loop_mode=one_shot  group_volume=10
+<region> lovel=1   hivel=69   sample=MDL_samples/auxiliary/agogo_low_P.ogg  volume=9
+<region> lovel=70  hivel=127  sample=MDL_samples/auxiliary/agogo_low_F.ogg  volume=0
+
+// *********************
+// ** Agogo Bell High **
+// ********************
+<group> key=f#1  loop_mode=one_shot  group_volume=10
+<region> lovel=1   hivel=59   sample=MDL_samples/auxiliary/agogo_high_P.ogg  volume=11
+<region> lovel=60  hivel=89   sample=MDL_samples/auxiliary/agogo_high_M.ogg  volume=3
+<region> lovel=90  hivel=127  sample=MDL_samples/auxiliary/agogo_high_F.ogg  volume=0
+
+// ***************
+// ** Jam Block **
+// ***************
+<group> key=g1  loop_mode=one_shot  group_volume=9
+<region> lovel=1   hivel=59    sample=MDL_samples/auxiliary/wood_click_PP_rr1.ogg  seq_position=1  seq_length=3  volume=23
+<region> lovel=1   hivel=59    sample=MDL_samples/auxiliary/wood_click_PP_rr2.ogg  seq_position=2  seq_length=3  volume=23
+<region> lovel=1   hivel=59    sample=MDL_samples/auxiliary/wood_click_PP_rr3.ogg  seq_position=3  seq_length=3  volume=23
+<region> lovel=60  hivel=78    sample=MDL_samples/auxiliary/wood_click_MP.ogg                                    volume=13
+<region> lovel=79  hivel=104   sample=MDL_samples/auxiliary/wood_click_F_rr1.ogg   seq_position=1  seq_length=2  volume=0
+<region> lovel=79  hivel=104   sample=MDL_samples/auxiliary/wood_click_F_rr2.ogg   seq_position=2  seq_length=2  volume=0
+<region> lovel=105  hivel=127  sample=MDL_samples/auxiliary/wood_click_FF.ogg                                    volume=3
+
+// *************
+// ** Cowbell **
+// *************
+<group> key=g#1  loop_mode=one_shot  group_volume=1
+<region> lovel=1    hivel=59   sample=MDL_samples/auxiliary/cowbell_P.ogg  volume=20
+<region> lovel=60   hivel=99   sample=MDL_samples/auxiliary/cowbell_M.ogg  volume=15
+<region> lovel=100  hivel=127  sample=MDL_samples/auxiliary/cowbell_F.ogg  volume=10
+
+// ********************
+// ** Ribbon Crasher **
+// ********************
+<group> key=a1  loop_mode=one_shot  group_volume=6
+<region> lovel=1   hivel=45   sample=MDL_samples/auxiliary/ribbon_crasher_P2.ogg   seq_position=1  seq_length=2  volume=5
+<region> lovel=1   hivel=45   sample=MDL_samples/auxiliary/ribbon_crasher_P1.ogg   seq_position=2  seq_length=2  volume=3
+<region> lovel=46  hivel=78   sample=MDL_samples/auxiliary/ribbon_crasher_MP.ogg   seq_position=1  seq_length=2  volume=1.5
+<region> lovel=46  hivel=78   sample=MDL_samples/auxiliary/ribbon_crasher_MF.ogg   seq_position=2  seq_length=2  volume=1
+<region> lovel=79  hivel=127  sample=MDL_samples/auxiliary/ribbon_crasher_F.ogg    seq_position=1  seq_length=3  volume=-1
+<region> lovel=79  hivel=127  sample=MDL_samples/auxiliary/ribbon_crasher_FF1.ogg  seq_position=2  seq_length=3  volume=0
+<region> lovel=79  hivel=127  sample=MDL_samples/auxiliary/ribbon_crasher_FF2.ogg  seq_position=3  seq_length=3  volume=0
+
+// *******************
+// ** Hi-Hat Closed **
+// *******************
+<group> key=c2  loop_mode=one_shot  seq_length=2  volume=-9  group=1  pan=2
+<region> lovel=1   hivel=32   sample=MDL_samples/drumset/NSA_Drumkit/HiHat/Mono/Closed1a.ogg  seq_position=1
+<region> lovel=1   hivel=32   sample=MDL_samples/drumset/NSA_Drumkit/HiHat/Mono/Closed1b.ogg  seq_position=2
+<region> lovel=33  hivel=55   sample=MDL_samples/drumset/NSA_Drumkit/HiHat/Mono/Closed2a.ogg  seq_position=1
+<region> lovel=33  hivel=55   sample=MDL_samples/drumset/NSA_Drumkit/HiHat/Mono/Closed2b.ogg  seq_position=2
+<region> lovel=56  hivel=97   sample=MDL_samples/drumset/NSA_Drumkit/HiHat/Mono/Closed3a.ogg  seq_position=1
+<region> lovel=56  hivel=97   sample=MDL_samples/drumset/NSA_Drumkit/HiHat/Mono/Closed3b.ogg  seq_position=2
+<region> lovel=98  hivel=127  sample=MDL_samples/drumset/NSA_Drumkit/HiHat/Mono/Closed4a.ogg  seq_position=1
+<region> lovel=98  hivel=127  sample=MDL_samples/drumset/NSA_Drumkit/HiHat/Mono/Closed4b.ogg  seq_position=2
+
+// *****************
+// ** Hi-Hat Open **
+// *****************
+<group> key=c#2  loop_mode=one_shot  ampeg_release=0.3  off_mode=normal  group=2  off_by=1  seq_length=2  volume=-6  pan=2
+<region> lovel=1    hivel=100  sample=MDL_samples/drumset/NSA_Drumkit/HiHat/Mono/Open1a.ogg  seq_position=1
+<region> lovel=1    hivel=100  sample=MDL_samples/drumset/NSA_Drumkit/HiHat/Mono/Open1b.ogg  seq_position=2
+<region> lovel=101  hivel=127  sample=MDL_samples/drumset/NSA_Drumkit/HiHat/Mono/Open2a.ogg  seq_position=1
+<region> lovel=101  hivel=127  sample=MDL_samples/drumset/NSA_Drumkit/HiHat/Mono/Open2b.ogg  seq_position=2
+
+// **********************
+// ** Ride Cymbal Edge **
+// **********************
+<group> key=d2  ampeg_release=20  seq_length=2  pan=-3.5  group_volume=-2
+<region> lovel=1   hivel=49   sample=MDL_samples/drumset/NSA_Drumkit/Cymbal/Ride20/bow1.ogg   seq_position=1
+<region> lovel=1   hivel=49   sample=MDL_samples/drumset/NSA_Drumkit/Cymbal/Ride20/edge1.ogg  seq_position=2
+<region> lovel=50  hivel=98   sample=MDL_samples/drumset/NSA_Drumkit/Cymbal/Ride20/bow2.ogg   seq_position=1
+<region> lovel=50  hivel=98   sample=MDL_samples/drumset/NSA_Drumkit/Cymbal/Ride20/edge2.ogg  seq_position=2
+<region> lovel=99  hivel=127  sample=MDL_samples/drumset/NSA_Drumkit/Cymbal/Ride20/bow3.ogg   seq_position=1
+<region> lovel=99  hivel=127  sample=MDL_samples/drumset/NSA_Drumkit/Cymbal/Ride20/edge3.ogg  seq_position=2
+
+// **********************
+// ** Ride Cymbal Bell **
+// **********************
+<group> key=d#2  ampeg_release=20  pan=-3.5  group_volume=-2
+<region> lovel=1   hivel=49   sample=MDL_samples/drumset/NSA_Drumkit/Cymbal/Ride20/bell1.ogg
+<region> lovel=50  hivel=98   sample=MDL_samples/drumset/NSA_Drumkit/Cymbal/Ride20/bell2.ogg
+<region> lovel=99  hivel=127  sample=MDL_samples/drumset/NSA_Drumkit/Cymbal/Ride20/bell3.ogg
+
+// ***************
+// ** 18" Crash **
+// ***************
+<group> key=e2  ampeg_release=20  pan=3.5  group_volume=-2
+<region>  lovel=1    hivel=44   sample=MDL_samples/drumset/NSA_Drumkit/Cymbal/18/tip1.ogg
+<region>  lovel=45   hivel=69   sample=MDL_samples/drumset/NSA_Drumkit/Cymbal/18/tip2.ogg
+<region>  lovel=70   hivel=104  sample=MDL_samples/drumset/NSA_Drumkit/Cymbal/18/tip2.ogg   volume=-12  amp_veltrack=0
+<region>  lovel=70   hivel=80   sample=MDL_samples/drumset/NSA_Drumkit/Cymbal/18/crash.ogg  volume=-6
+  fil_type=lpf_1p  cutoff=200  fil_veltrack=9600
+<region>  lovel=81   hivel=92   sample=MDL_samples/drumset/NSA_Drumkit/Cymbal/18/crash.ogg  volume=-4
+  fil_type=lpf_1p  cutoff=200  fil_veltrack=9600
+<region>  lovel=93   hivel=104  sample=MDL_samples/drumset/NSA_Drumkit/Cymbal/18/crash.ogg  volume=-2
+  fil_type=lpf_1p  cutoff=200  fil_veltrack=9600
+<region>  lovel=105  hivel=127  sample=MDL_samples/drumset/NSA_Drumkit/Cymbal/18/crash.ogg  volume=2
+
+// ***************
+// ** Stand Hit **
+// ***************
+<group> key=g#2  lovel=1  hivel=94  loop_mode=one_shot  group_volume=-4
+fil_type=lpf_1p  cutoff=1400  fil_veltrack=8000
+// RR1
+<region> sample=MDL_samples/tenor/stand_hit_1_L.ogg  pan=-30  tune=0   seq_position=1  seq_length=4  delay=0.0134
+<region> sample=MDL_samples/tenor/stand_hit_2_R.ogg  pan=0    tune=-1  seq_position=1  seq_length=4  delay=0.007
+<region> sample=MDL_samples/tenor/stand_hit_3_L.ogg  pan=30   tune=1   seq_position=1  seq_length=4  delay=0
+// RR2
+<region> sample=MDL_samples/tenor/stand_hit_3_R.ogg  pan=-30  tune=0   seq_position=2  seq_length=4  delay=0
+<region> sample=MDL_samples/tenor/stand_hit_4_L.ogg  pan=0    tune=-1  seq_position=2  seq_length=4  delay=0.0138
+<region> sample=MDL_samples/tenor/stand_hit_1_R.ogg  pan=30   tune=1   seq_position=2  seq_length=4  delay=0.007
+// RR3
+<region> sample=MDL_samples/tenor/stand_hit_4_R.ogg  pan=-30  tune=0   seq_position=3  seq_length=4  delay=0
+<region> sample=MDL_samples/tenor/stand_hit_1_L.ogg  pan=0    tune=-1  seq_position=3  seq_length=4  delay=0.0131
+<region> sample=MDL_samples/tenor/stand_hit_2_R.ogg  pan=30   tune=1   seq_position=3  seq_length=4  delay=0.020
+// RR4
+<region> sample=MDL_samples/tenor/stand_hit_2_L.ogg  pan=-30  tune=0   seq_position=4  seq_length=4  delay=0
+<region> sample=MDL_samples/tenor/stand_hit_3_R.ogg  pan=0    tune=-1  seq_position=4  seq_length=4  delay=0.0137
+<region> sample=MDL_samples/tenor/stand_hit_4_L.ogg  pan=30   tune=1   seq_position=4  seq_length=4  delay=0.013
+
+<group> key=g#2  lovel=95  hivel=127  loop_mode=one_shot  group_volume=-4
+// RR1
+<region> sample=MDL_samples/tenor/stand_hit_1_L.ogg  pan=-30  tune=0   seq_position=1  seq_length=4  delay=0.0134
+<region> sample=MDL_samples/tenor/stand_hit_2_R.ogg  pan=0    tune=-1  seq_position=1  seq_length=4  delay=0.007
+<region> sample=MDL_samples/tenor/stand_hit_3_L.ogg  pan=30   tune=1   seq_position=1  seq_length=4  delay=0
+// RR2
+<region> sample=MDL_samples/tenor/stand_hit_3_R.ogg  pan=-30  tune=0   seq_position=2  seq_length=4  delay=0
+<region> sample=MDL_samples/tenor/stand_hit_4_L.ogg  pan=0    tune=-1  seq_position=2  seq_length=4  delay=0.0138
+<region> sample=MDL_samples/tenor/stand_hit_1_R.ogg  pan=30   tune=1   seq_position=2  seq_length=4  delay=0.007
+// RR3
+<region> sample=MDL_samples/tenor/stand_hit_4_R.ogg  pan=-30  tune=0   seq_position=3  seq_length=4  delay=0
+<region> sample=MDL_samples/tenor/stand_hit_1_L.ogg  pan=0    tune=-1  seq_position=3  seq_length=4  delay=0.0131
+<region> sample=MDL_samples/tenor/stand_hit_2_R.ogg  pan=30   tune=1   seq_position=3  seq_length=4  delay=0.020
+// RR4
+<region> sample=MDL_samples/tenor/stand_hit_2_L.ogg  pan=-30  tune=0   seq_position=4  seq_length=4  delay=0
+<region> sample=MDL_samples/tenor/stand_hit_3_R.ogg  pan=0    tune=-1  seq_position=4  seq_length=4  delay=0.0137
+<region> sample=MDL_samples/tenor/stand_hit_4_L.ogg  pan=30   tune=1   seq_position=4  seq_length=4  delay=0.013
+
+// ******************
+// ** Mallet Click **
+// ******************
+<group> key=a2  lovel=1  hivel=49  loop_mode=one_shot
+fil_type=lpf_1p  cutoff=1500  fil_veltrack=8000
+//RR1
+<region> sample=DRUM SAMPLES/03 SNARE DRUMS/STICK ON STICK CLAPS/STICK CLAPS Soft 01.wav  seq_position=1  seq_length=4 volume=3
+//RR2
+<region> sample=DRUM SAMPLES/03 SNARE DRUMS/STICK ON STICK CLAPS/STICK CLAPS Soft 02.wav  seq_position=2  seq_length=4 volume=3
+//RR3
+<region> sample=DRUM SAMPLES/03 SNARE DRUMS/STICK ON STICK CLAPS/STICK CLAPS Soft 03.wav  seq_position=3  seq_length=4 volume=3
+//RR4
+<region> sample=DRUM SAMPLES/03 SNARE DRUMS/STICK ON STICK CLAPS/STICK CLAPS Soft 04.wav  seq_position=4  seq_length=4 volume=3
+
+<group> key=a2  lovel=50  hivel=95  loop_mode=one_shot
+fil_type=lpf_1p  cutoff=1500  fil_veltrack=8000
+//RR1
+<region> sample=DRUM SAMPLES/03 SNARE DRUMS/STICK ON STICK CLAPS/STICK CLAPS Reg 01.wav  seq_position=1  seq_length=4 volume=5
+//RR2
+<region> sample=DRUM SAMPLES/03 SNARE DRUMS/STICK ON STICK CLAPS/STICK CLAPS Reg 02.wav  seq_position=2  seq_length=4 volume=5
+//RR3
+<region> sample=DRUM SAMPLES/03 SNARE DRUMS/STICK ON STICK CLAPS/STICK CLAPS Reg 03.wav  seq_position=3  seq_length=4 volume=5
+//RR4
+<region> sample=DRUM SAMPLES/03 SNARE DRUMS/STICK ON STICK CLAPS/STICK CLAPS Reg 04.wav  seq_position=4  seq_length=4 volume=5
+
+<group> key=a2  lovel=96  hivel=127  loop_mode=one_shot
+fil_type=lpf_1p  cutoff=1500  fil_veltrack=8000
+//RR1
+<region> sample=DRUM SAMPLES/03 SNARE DRUMS/STICK ON STICK CLAPS/STICK CLAPS Hard 01.wav  seq_position=1  seq_length=4 volume=7
+//RR2
+<region> sample=DRUM SAMPLES/03 SNARE DRUMS/STICK ON STICK CLAPS/STICK CLAPS Hard 02.wav  seq_position=2  seq_length=4 volume=7
+//RR3
+<region> sample=DRUM SAMPLES/03 SNARE DRUMS/STICK ON STICK CLAPS/STICK CLAPS Hard 03.wav  seq_position=3  seq_length=4 volume=7
+//RR4
+<region> sample=DRUM SAMPLES/03 SNARE DRUMS/STICK ON STICK CLAPS/STICK CLAPS Hard 04.wav  seq_position=4  seq_length=4 volume=7
+
+// ***************
+// ** Sticks In **
+// ***************
+<group> key=a#2  lovel=1  hivel=49  loop_mode=one_shot
+fil_type=lpf_1p  cutoff=1500  fil_veltrack=8000
+//RR1
+<region> sample=DRUM SAMPLES/03 SNARE DRUMS/STICK ON STICK CLAPS/STICK CLAPS Soft 01.wav  seq_position=1  seq_length=4 volume=3
+//RR2
+<region> sample=DRUM SAMPLES/03 SNARE DRUMS/STICK ON STICK CLAPS/STICK CLAPS Soft 02.wav  seq_position=2  seq_length=4 volume=3
+//RR3
+<region> sample=DRUM SAMPLES/03 SNARE DRUMS/STICK ON STICK CLAPS/STICK CLAPS Soft 03.wav  seq_position=3  seq_length=4 volume=3
+//RR4
+<region> sample=DRUM SAMPLES/03 SNARE DRUMS/STICK ON STICK CLAPS/STICK CLAPS Soft 04.wav  seq_position=4  seq_length=4 volume=3
+
+<group> key=a#2  lovel=50  hivel=95  loop_mode=one_shot
+fil_type=lpf_1p  cutoff=1500  fil_veltrack=8000
+//RR1
+<region> sample=DRUM SAMPLES/03 SNARE DRUMS/STICK ON STICK CLAPS/STICK CLAPS Reg 01.wav  seq_position=1  seq_length=4 volume=5
+//RR2
+<region> sample=DRUM SAMPLES/03 SNARE DRUMS/STICK ON STICK CLAPS/STICK CLAPS Reg 02.wav  seq_position=2  seq_length=4 volume=5
+//RR3
+<region> sample=DRUM SAMPLES/03 SNARE DRUMS/STICK ON STICK CLAPS/STICK CLAPS Reg 03.wav  seq_position=3  seq_length=4 volume=5
+//RR4
+<region> sample=DRUM SAMPLES/03 SNARE DRUMS/STICK ON STICK CLAPS/STICK CLAPS Reg 04.wav  seq_position=4  seq_length=4 volume=5
+
+<group> key=a#2  lovel=96  hivel=127  loop_mode=one_shot
+fil_type=lpf_1p  cutoff=1500  fil_veltrack=8000
+//RR1
+<region> sample=DRUM SAMPLES/03 SNARE DRUMS/STICK ON STICK CLAPS/STICK CLAPS Hard 01.wav  seq_position=1  seq_length=4 volume=7
+//RR2
+<region> sample=DRUM SAMPLES/03 SNARE DRUMS/STICK ON STICK CLAPS/STICK CLAPS Hard 02.wav  seq_position=2  seq_length=4 volume=7
+//RR3
+<region> sample=DRUM SAMPLES/03 SNARE DRUMS/STICK ON STICK CLAPS/STICK CLAPS Hard 03.wav  seq_position=3  seq_length=4 volume=7
+//RR4
+<region> sample=DRUM SAMPLES/03 SNARE DRUMS/STICK ON STICK CLAPS/STICK CLAPS Hard 04.wav  seq_position=4  seq_length=4 volume=7
+
+// ***************************
+// ** Double Stop on Shells **
+// ***************************
+<group> key=b2  lovel=1  hivel=49  loop_mode=one_shot
+fil_type=lpf_1p  cutoff=1200  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/SHELL CLICKS/SHELL CLICKS TENOR 4 Soft 01.wav  seq_position=1  seq_length=4  volume=3
+<region> sample=DRUM SAMPLES/04 TENORS/SHELL CLICKS/SHELL CLICKS TENOR 3 Soft 01.wav  seq_position=1  seq_length=4  volume=3 delay=0.050
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/SHELL CLICKS/SHELL CLICKS TENOR 4 Soft 02.wav  seq_position=2  seq_length=4  volume=3
+<region> sample=DRUM SAMPLES/04 TENORS/SHELL CLICKS/SHELL CLICKS TENOR 3 Soft 02.wav  seq_position=2  seq_length=4  volume=3 delay=0.050
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/SHELL CLICKS/SHELL CLICKS TENOR 4 Soft 03.wav  seq_position=3  seq_length=4  volume=3
+<region> sample=DRUM SAMPLES/04 TENORS/SHELL CLICKS/SHELL CLICKS TENOR 3 Soft 03.wav  seq_position=3  seq_length=4  volume=3 delay=0.050
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/SHELL CLICKS/SHELL CLICKS TENOR 4 Soft 04.wav  seq_position=4  seq_length=4  volume=3
+<region> sample=DRUM SAMPLES/04 TENORS/SHELL CLICKS/SHELL CLICKS TENOR 3 Soft 04.wav  seq_position=4  seq_length=4  volume=3 delay=0.050
+
+<group> key=b2  lovel=50  hivel=95  loop_mode=one_shot
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/SHELL CLICKS/SHELL CLICKS TENOR 4 Soft 01.wav  seq_position=1  seq_length=4  volume=3
+<region> sample=DRUM SAMPLES/04 TENORS/SHELL CLICKS/SHELL CLICKS TENOR 3 Soft 01.wav  seq_position=1  seq_length=4  volume=3 delay=0.050
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/SHELL CLICKS/SHELL CLICKS TENOR 4 Soft 02.wav  seq_position=2  seq_length=4  volume=3
+<region> sample=DRUM SAMPLES/04 TENORS/SHELL CLICKS/SHELL CLICKS TENOR 3 Soft 02.wav  seq_position=2  seq_length=4  volume=3 delay=0.050
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/SHELL CLICKS/SHELL CLICKS TENOR 4 Soft 03.wav  seq_position=3  seq_length=4  volume=3
+<region> sample=DRUM SAMPLES/04 TENORS/SHELL CLICKS/SHELL CLICKS TENOR 3 Soft 03.wav  seq_position=3  seq_length=4  volume=3 delay=0.050
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/SHELL CLICKS/SHELL CLICKS TENOR 4 Soft 04.wav  seq_position=4  seq_length=4  volume=3
+<region> sample=DRUM SAMPLES/04 TENORS/SHELL CLICKS/SHELL CLICKS TENOR 3 Soft 04.wav  seq_position=4  seq_length=4  volume=3 delay=0.050
+
+<group> key=b2  lovel=96  hivel=127  loop_mode=one_shot
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/SHELL CLICKS/SHELL CLICKS TENOR 4 Soft 01.wav  seq_position=1  seq_length=4  volume=3
+<region> sample=DRUM SAMPLES/04 TENORS/SHELL CLICKS/SHELL CLICKS TENOR 3 Soft 01.wav  seq_position=1  seq_length=4  volume=3 delay=0.050
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/SHELL CLICKS/SHELL CLICKS TENOR 4 Soft 02.wav  seq_position=2  seq_length=4  volume=3
+<region> sample=DRUM SAMPLES/04 TENORS/SHELL CLICKS/SHELL CLICKS TENOR 3 Soft 02.wav  seq_position=2  seq_length=4  volume=3 delay=0.050
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/SHELL CLICKS/SHELL CLICKS TENOR 4 Soft 03.wav  seq_position=3  seq_length=4  volume=3
+<region> sample=DRUM SAMPLES/04 TENORS/SHELL CLICKS/SHELL CLICKS TENOR 3 Soft 03.wav  seq_position=3  seq_length=4  volume=3 delay=0.050
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/SHELL CLICKS/SHELL CLICKS TENOR 4 Soft 04.wav  seq_position=4  seq_length=4  volume=3
+<region> sample=DRUM SAMPLES/04 TENORS/SHELL CLICKS/SHELL CLICKS TENOR 3 Soft 04.wav  seq_position=4  seq_length=4  volume=3 delay=0.050
+
+// ***********************
+// ** Dry Crush (short) **
+// ***********************
+// Drum 4
+<group> key=c3  lovel=1  hivel=49  ampeg_release=3  transpose=0
+fil_type=lpf_1p  cutoff=100  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 4 Soft 01.wav  seq_position=1  seq_length=4  volume=3
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 4 Soft 02.wav  seq_position=2  seq_length=4  volume=3
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 4 Soft 03.wav  seq_position=3  seq_length=4  volume=3
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 4 Soft 04.wav  seq_position=4  seq_length=4  volume=3
+// Drum 3
+<group> key=c#3  lovel=1  hivel=49  ampeg_release=3  transpose=0
+fil_type=lpf_1p  cutoff=133  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 3 Soft 01.wav  seq_position=1  seq_length=4  volume=3
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 3 Soft 02.wav  seq_position=2  seq_length=4  volume=3
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 3 Soft 03.wav  seq_position=3  seq_length=4  volume=3
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 3 Soft 04.wav  seq_position=4  seq_length=4  volume=3
+// Drum 2
+<group> key=d3  lovel=1  hivel=49  ampeg_release=4  transpose=0
+fil_type=lpf_1p  cutoff=166  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 2 Soft 01.wav  seq_position=1  seq_length=4  volume=3
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 2 Soft 02.wav  seq_position=2  seq_length=4  volume=3
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 2 Soft 03.wav  seq_position=3  seq_length=4  volume=3
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 2 Soft 04.wav  seq_position=4  seq_length=4  volume=3
+// Drum 1
+<group> key=d#3  lovel=1  hivel=49  loop_mode=one_shot
+fil_type=lpf_1p  cutoff=200  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 1 Soft 01.wav  seq_position=1  seq_length=4  volume=3
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 1 Soft 02.wav  seq_position=2  seq_length=4  volume=3
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 1 Soft 03.wav  seq_position=3  seq_length=4  volume=3
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 1 Soft 04.wav  seq_position=4  seq_length=4  volume=3
+// Spock 2
+<group> key=e3  lovel=1  hivel=49  loop_mode=one_shot  transpose=-3
+fil_type=lpf_1p  cutoff=233  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Soft 01.wav  seq_position=1  seq_length=4  volume=3
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Soft 02.wav  seq_position=2  seq_length=4  volume=3
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Soft 03.wav  seq_position=3  seq_length=4  volume=3
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Soft 04.wav  seq_position=4  seq_length=4  volume=3
+// Spock 1
+<group> key=f3  lovel=1  hivel=49  loop_mode=one_shot
+fil_type=lpf_1p  cutoff=266  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Soft 01.wav  seq_position=1  seq_length=4  volume=3
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Soft 02.wav  seq_position=2  seq_length=4  volume=3
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Soft 03.wav  seq_position=3  seq_length=4  volume=3
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Soft 04.wav  seq_position=4  seq_length=4  volume=3
+
+// Drum 4
+<group> key=c3  lovel=50  hivel=95  ampeg_release=3  transpose=0
+fil_type=lpf_1p  cutoff=100  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 4 Reg 01.wav  seq_position=1  seq_length=4  volume=5
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 4 Reg 02.wav  seq_position=2  seq_length=4  volume=5
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 4 Reg 03.wav  seq_position=3  seq_length=4  volume=5
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 4 Reg 04.wav  seq_position=4  seq_length=4  volume=5
+// Drum 3
+<group> key=c#3  lovel=50 hivel=95  ampeg_release=3  transpose=0
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 3 Reg 01.wav  seq_position=1  seq_length=4  volume=5
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 3 Reg 02.wav  seq_position=2  seq_length=4  volume=5
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 3 Reg 03.wav  seq_position=3  seq_length=4  volume=5
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 3 Reg 04.wav  seq_position=4  seq_length=4  volume=5
+// Drum 2
+<group> key=d3  lovel=50 hivel=95  ampeg_release=4  transpose=0
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 2 Reg 01.wav  seq_position=1  seq_length=4  volume=5
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 2 Reg 02.wav  seq_position=2  seq_length=4  volume=5
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 2 Reg 03.wav  seq_position=3  seq_length=4  volume=5
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 2 Reg 04.wav  seq_position=4  seq_length=4  volume=5
+// Drum 1
+<group> key=d#3  lovel=50 hivel=95  loop_mode=one_shot
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 1 Reg 01.wav  seq_position=1  seq_length=4  volume=5
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 1 Reg 02.wav  seq_position=2  seq_length=4  volume=5
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 1 Reg 03.wav  seq_position=3  seq_length=4  volume=5
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 1 Reg 04.wav  seq_position=4  seq_length=4  volume=5
+// Spock 2
+<group> key=e3  lovel=50 hivel=95  loop_mode=one_shot  transpose=-3
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 01.wav  seq_position=1  seq_length=4  volume=5
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 02.wav  seq_position=2  seq_length=4  volume=5
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 03.wav  seq_position=3  seq_length=4  volume=5
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 04.wav  seq_position=4  seq_length=4  volume=5
+// Spock 1
+<group> key=f3  lovel=50  hivel=95  loop_mode=one_shot
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 01.wav  seq_position=1  seq_length=4  volume=5
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 02.wav  seq_position=2  seq_length=4  volume=5
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 03.wav  seq_position=3  seq_length=4  volume=5
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 04.wav  seq_position=4  seq_length=4  volume=5
+
+// Drum 4
+<group> key=c3  lovel=96  hivel=127  ampeg_release=3  transpose=0
+fil_type=lpf_1p  cutoff=100  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 4 Hard 01.wav  seq_position=1  seq_length=4  volume=7
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 4 Hard 02.wav  seq_position=2  seq_length=4  volume=7
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 4 Hard 03.wav  seq_position=3  seq_length=4  volume=7
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 4 Hard 04.wav  seq_position=4  seq_length=4  volume=7
+// Drum 3
+<group> key=c#3  lovel=96  hivel=127  ampeg_release=3  transpose=0
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 3 Reg 01.wav  seq_position=1  seq_length=4  volume=7
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 3 Reg 02.wav  seq_position=2  seq_length=4  volume=7
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 3 Reg 03.wav  seq_position=3  seq_length=4  volume=7
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 3 Reg 04.wav  seq_position=4  seq_length=4  volume=7
+// Drum 2
+<group> key=d3  lovel=96  hivel=127  ampeg_release=4  transpose=0
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 2 Reg 01.wav  seq_position=1  seq_length=4  volume=7
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 2 Reg 02.wav  seq_position=2  seq_length=4  volume=7
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 2 Reg 03.wav  seq_position=3  seq_length=4  volume=7
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 2 Reg 04.wav  seq_position=4  seq_length=4  volume=7
+// Drum 1
+<group> key=d#3  lovel=96  hivel=127  loop_mode=one_shot
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 1 Reg 01.wav  seq_position=1  seq_length=4  volume=7
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 1 Reg 02.wav  seq_position=2  seq_length=4  volume=7
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 1 Reg 03.wav  seq_position=3  seq_length=4  volume=7
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 1 Reg 04.wav  seq_position=4  seq_length=4  volume=7
+// Spock 2
+<group> key=e3  lovel=96  hivel=127  loop_mode=one_shot  transpose=-3
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 01.wav  seq_position=1  seq_length=4  volume=7
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 02.wav  seq_position=2  seq_length=4  volume=7
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 03.wav  seq_position=3  seq_length=4  volume=7
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 04.wav  seq_position=4  seq_length=4  volume=7
+// Spock 1
+<group> key=f3  lovel=96  hivel=127  loop_mode=one_shot
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 01.wav  seq_position=1  seq_length=4  volume=7
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 02.wav  seq_position=2  seq_length=4  volume=7
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 03.wav  seq_position=3  seq_length=4  volume=7
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 04.wav  seq_position=4  seq_length=4  volume=7
+
+// **********************
+// ** Fat Crush (long) **
+// **********************
+// Drum 4
+<group> key=f#3  lovel=1  hivel=49  ampeg_release=3  transpose=0
+fil_type=lpf_1p  cutoff=100  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 4 Soft 01.wav  seq_position=1  seq_length=4  volume=3
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 4 Soft 02.wav  seq_position=2  seq_length=4  volume=3
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 4 Soft 03.wav  seq_position=3  seq_length=4  volume=3
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 4 Soft 04.wav  seq_position=4  seq_length=4  volume=3
+// Drum 3
+<group> key=g3  lovel=1  hivel=49  ampeg_release=3  transpose=0
+fil_type=lpf_1p  cutoff=133  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 3 Soft 01.wav  seq_position=1  seq_length=4  volume=3
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 3 Soft 02.wav  seq_position=2  seq_length=4  volume=3
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 3 Soft 03.wav  seq_position=3  seq_length=4  volume=3
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 3 Soft 04.wav  seq_position=4  seq_length=4  volume=3
+// Drum 2
+<group> key=g#3  lovel=1  hivel=49  ampeg_release=4  transpose=0
+fil_type=lpf_1p  cutoff=166  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 2 Soft 01.wav  seq_position=1  seq_length=4  volume=3
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 2 Soft 02.wav  seq_position=2  seq_length=4  volume=3
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 2 Soft 03.wav  seq_position=3  seq_length=4  volume=3
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 2 Soft 04.wav  seq_position=4  seq_length=4  volume=3
+// Druma
+<group> key=d#3  lovel=1  hivel=49  loop_mode=one_shot
+fil_type=lpf_1p  cutoff=200  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 1 Soft 01.wav  seq_position=1  seq_length=4  volume=3
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 1 Soft 02.wav  seq_position=2  seq_length=4  volume=3
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 1 Soft 03.wav  seq_position=3  seq_length=4  volume=3
+// RR4
+<regiona# sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 1 Soft 04.wav  seq_position=4  seq_length=4  volume=3
+// Spock 2
+<group> key=e3  lovel=1  hivel=49  loop_mode=one_shot  transpose=-3
+fil_type=lpf_1p  cutoff=233  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Soft 01.wav  seq_position=1  seq_length=4  volume=3
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Soft 02.wav  seq_position=2  seq_length=4  volume=3
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Soft 03.wav  seq_position=3  seq_length=4  volume=3
+// Rb4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Soft 04.wav  seq_position=4  seq_length=4  volume=3
+// Spock 1
+<group> key=f3  lovel=1  hivel=49  loop_mode=one_shot
+fil_type=lpf_1p  cutoff=266  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Soft 01.wav  seq_position=1  seq_length=4  volume=3
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Soft 02.wav  seq_position=2  seq_length=4  volume=3
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Soft 03.wav  seq_position=3  seq_length=4  volume=3
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Soft 04.wav  seq_position=4  seq_length=4  volume=3
+
+// Drum 4
+<group> key=f#3  lovel=50  hivel=95  ampeg_release=3  transpose=0
+fil_type=lpf_1p  cutoff=100  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 4 Reg 01.wav  seq_position=1  seq_length=4  volume=5
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 4 Reg 02.wav  seq_position=2  seq_length=4  volume=5
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 4 Reg 03.wav  seq_position=3  seq_length=4  volume=5
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 4 Reg 04.wav  seq_position=4  seq_length=4  volume=5
+// Drum 3
+<group> key=g3  lovel=50 hivel=95  ampeg_release=3  transpose=0
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 3 Reg 01.wav  seq_position=1  seq_length=4  volume=5
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 3 Reg 02.wav  seq_position=2  seq_length=4  volume=5
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 3 Reg 03.wav  seq_position=3  seq_length=4  volume=5
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 3 Reg 04.wav  seq_position=4  seq_length=4  volume=5
+// Drum 2
+<group> key=g#3  lovel=50 hivel=95  ampeg_release=4  transpose=0
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 2 Reg 01.wav  seq_position=1  seq_length=4  volume=5
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 2 Reg 02.wav  seq_position=2  seq_length=4  volume=5
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 2 Reg 03.wav  seq_position=3  seq_length=4  volume=5
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 2 Reg 04.wav  seq_position=4  seq_length=4  volume=5
+// Drum 1
+<group> key=a3  lovel=50 hivel=95  loop_mode=one_shot
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 1 Reg 01.wav  seq_position=1  seq_length=4  volume=5
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 1 Reg 02.wav  seq_position=2  seq_length=4  volume=5
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 1 Reg 03.wav  seq_position=3  seq_length=4  volume=5
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 1 Reg 04.wav  seq_position=4  seq_length=4  volume=5
+// Spock 2
+<group> key=a#3  lovel=50 hivel=95  loop_mode=one_shot  transpose=-3
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 01.wav  seq_position=1  seq_length=4  volume=5
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 02.wav  seq_position=2  seq_length=4  volume=5
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 03.wav  seq_position=3  seq_length=4  volume=5
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 04.wav  seq_position=4  seq_length=4  volume=5
+// Spock 1
+<group> key=b3  lovel=50  hivel=95  loop_mode=one_shot
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 01.wav  seq_position=1  seq_length=4  volume=5
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 02.wav  seq_position=2  seq_length=4  volume=5
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 03.wav  seq_position=3  seq_length=4  volume=5
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 04.wav  seq_position=4  seq_length=4  volume=5
+
+// Drum 4
+<group> key=f#3  lovel=96  hivel=127  ampeg_release=3  transpose=0
+fil_type=lpf_1p  cutoff=100  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 4 Hard 01.wav  seq_position=1  seq_length=4  volume=7
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 4 Hard 02.wav  seq_position=2  seq_length=4  volume=7
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 4 Hard 03.wav  seq_position=3  seq_length=4  volume=7
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 4 Hard 04.wav  seq_position=4  seq_length=4  volume=7
+// Drum 3
+<group> key=g3  lovel=96  hivel=127  ampeg_release=3  transpose=0
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 3 Reg 01.wav  seq_position=1  seq_length=4  volume=7
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 3 Reg 02.wav  seq_position=2  seq_length=4  volume=7
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 3 Reg 03.wav  seq_position=3  seq_length=4  volume=7
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 3 Reg 04.wav  seq_position=4  seq_length=4  volume=7
+// Drum 2
+<group> key=g#3  lovel=96  hivel=127  ampeg_release=4  transpose=0
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 2 Reg 01.wav  seq_position=1  seq_length=4  volume=7
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 2 Reg 02.wav  seq_position=2  seq_length=4  volume=7
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 2 Reg 03.wav  seq_position=3  seq_length=4  volume=7
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 2 Reg 04.wav  seq_position=4  seq_length=4  volume=7
+// Drum 1
+<group> key=a3  lovel=96  hivel=127  loop_mode=one_shot
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 1 Reg 01.wav  seq_position=1  seq_length=4  volume=7
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 1 Reg 02.wav  seq_position=2  seq_length=4  volume=7
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 1 Reg 03.wav  seq_position=3  seq_length=4  volume=7
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ TENOR 1 Reg 04.wav  seq_position=4  seq_length=4  volume=7
+// Spock 2
+<group> key=a#3  lovel=96  hivel=127  loop_mode=one_shot  transpose=-3
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 01.wav  seq_position=1  seq_length=4  volume=7
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 02.wav  seq_position=2  seq_length=4  volume=7
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 03.wav  seq_position=3  seq_length=4  volume=7
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 04.wav  seq_position=4  seq_length=4  volume=7
+// Spock 1
+<group> key=b3  lovel=96  hivel=127  loop_mode=one_shot
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 01.wav  seq_position=1  seq_length=4  volume=7
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 02.wav  seq_position=2  seq_length=4  volume=7
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 03.wav  seq_position=3  seq_length=4  volume=7
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/THE BUZZ HARD MALLETS/BUZZ SPOCK Reg 04.wav  seq_position=4  seq_length=4  volume=7
+
+// ********************
+// ** Skank (Drum 4) **
+// ********************
+<group> key=f7  lovel=1  hivel=49  ampeg_release=2  transpose=0  group_volume=11
+fil_type=lpf_1p  cutoff=600  fil_veltrack=8000
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 4 Soft 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 4 Soft 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 4 Soft 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 4 Soft 04.wav  seq_position=4  seq_length=4
+
+<group> key=f7  lovel=50  hivel=95  ampeg_release=2  transpose=0  group_volume=11
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 4 Reg 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 4 Reg 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 4 Reg 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 4 Reg 04.wav  seq_position=4  seq_length=4
+
+<group> key=f7  lovel=96  hivel=127  ampeg_release=2  transpose=0  group_volume=11
+// RR1
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 4 Hard 01.wav  seq_position=1  seq_length=4
+// RR2
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 4 Hard 02.wav  seq_position=2  seq_length=4
+// RR3
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 4 Hard 03.wav  seq_position=3  seq_length=4
+// RR4
+<region> sample=DRUM SAMPLES/04 TENORS/SHOTS WITH STICKS/SHOTS TENOR 4 Hard 04.wav  seq_position=4  seq_length=4
